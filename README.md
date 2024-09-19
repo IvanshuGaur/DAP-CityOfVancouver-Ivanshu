@@ -8,7 +8,10 @@ The project provides insights into the <b>gender</b>, <b>payrates</b> and their 
 The goal of the project is to <b>identify total number of males and females</b> working at City Of Vancouver in 2022 and 2023.
 
 
-Dataset link: <a href="[https://www.google.com](https://opendata.vancouver.ca/explore/dataset/workforce-pay-rates-and-gender/information/?disjunctive.exempt_union&disjunctive.classification&disjunctive.position_title&disjunctive.data_category)">Workforce pay rates and sex</a>
+
+
+<b>Dataset link</b>:
+[Workforce pay rates and sex](https://opendata.vancouver.ca/explore/dataset/workforce-pay-rates-and-gender/information/?disjunctive.exempt_union&disjunctive.classification&disjunctive.position_title&disjunctive.data_category)
 
 <img src="https://github.com/IvanshuGaur/DAP-CityOfVancouver-Ivanshu/blob/main/Picture%201.png" alt="DAP" width="700" height="500">
 
